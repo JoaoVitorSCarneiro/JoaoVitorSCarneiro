@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JoaoVSCarneiro
-- 👀 I’m interested in Game Development, Automation, an UI Design
-- 🌱 I’m currently learning Python
+I’m @JoaoVSCarneiro, in going on Game Development, Automation, an UI Design
+ I’m currently learning Python
 
 <!---
 Kanariohn/Kanariohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
